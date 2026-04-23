@@ -1,4 +1,4 @@
-# 🧠 Sistema Cliente-Servidor en Java
+# Sistema Cliente-Servidor en Java
 
 ## 1. Introducción
 Este proyecto implementa un sistema cliente-servidor utilizando sockets en Java. Permite la conexión simultánea de múltiples clientes mediante el uso de hilos.
